@@ -1,12 +1,8 @@
-# 🌟 Top ![#100](https://img.shields.io/badge/100-green) GitHub Contributor in Pakistan (Aming High)!
-
 ## 👨‍💻 Software Engineer | Network Administrator | Cyber Security Enthusiast | DSA & LeetCode Contributor
 
-- 🌍 *Top 100 GitHub Contributor in Pakistan* (Aiming High!)
-- 🔍 Specializing in Data Science, Machine Learning, Algorithmic Problems, and Data Analysis.
-- 🛠️ Building tools for *data transformation* and *analysis*.
+- 🔍 Specializing in Network Engineering & Network Management, Algorithmic Problems.
+- 🛠️ Working on the Tools To Manage and Build the Network
 - 💻 Passionate about continuous learning and improving technical skills.
-- 🏆 Ranked among the top contributors in various hackathons and coding platforms.
 
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/hussainahmad02) 
@@ -20,7 +16,6 @@
   <tr>
     <td><b>Languages</b></td>
     <td><b>Tools</b></td>
-    <td><b>Web Development</b></td>
   </tr>
   <tr>
     <td>
@@ -29,34 +24,11 @@
       <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" width="150">
     </td>
     <td>
-      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" width="150">
-      <img src="https://img.shields.io/badge/-Power%20BI-FFB11A?style=for-the-badge&logo=powerbi&logoColor=white" width="150">
-      <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" width="150">
-      <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" width="150">
+      <img src="https://img.shields.io/badge/-Packet%20Tracer-00A8E8?style=for-the-badge&logo=cisco&logoColor=white" width="150">
+      <img src="https://img.shields.io/badge/-Burp%20Suite-FF5733?style=for-the-badge&logo=burp-suite&logoColor=white" width="150">
     </td>
-    <td>
-      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="150">
-      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="150">
-      <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" width="150">
-    </td>
-  </tr>
-  <tr>
-    <td><b>Data Science & Machine Learning Libraries</b></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" width="150">
-      <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" width="150">
-      <img src="https://img.shields.io/badge/-Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white" width="150">
-      <img src="https://img.shields.io/badge/-Seaborn-FF7F0E?style=for-the-badge&logo=seaborn&logoColor=white" width="150">
-      <img src="https://img.shields.io/badge/-SciPy-8C2F39?style=for-the-badge&logo=scipy&logoColor=white" width="150">
-      <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" width="150">
-      <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" width="150">
-      <img src="https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" width="150">
-      <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" width="150">
-    </td>
-  </tr>
 </table>
+
 
 
 
