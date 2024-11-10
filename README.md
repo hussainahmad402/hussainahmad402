@@ -5,7 +5,7 @@
 - 💻 Passionate about continuous learning and improving technical skills.
 
 ### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/hussainahmad02) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hussainahmad02/) 
 [![Leetcode](https://img.shields.io/badge/-Leetcode-orange?style=flat-square&logo=Leetcode&logoColor=white)](https://leetcode.com/u/hussainahmad02/)
 [![Monkeytype](https://img.shields.io/badge/-Monkeytype-00D0A3?style=flat-square&logo=Monkeytype&logoColor=white)](https://monkeytype.com/profile/hussain_02)
 
