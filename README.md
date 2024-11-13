@@ -31,12 +31,6 @@
   </tr>
 </table>
 
-
-### 🔥 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hussainahmad402&theme=dark&hide_border=true" alt="GitHub Streak">
-</p>
-
 ---
 
 ### 📈 GitHub Activity:
