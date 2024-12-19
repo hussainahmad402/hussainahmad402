@@ -20,15 +20,15 @@
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" width="120" height="50">
-      <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" width="120" height="50">
-      <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" width="120" height="50">
-      <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" width="120" height="50">
-      <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" width="120" height="50">
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" width="100" height="50">
+      <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" width="100" height="50">
+      <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" width="100" height="50">
+      <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" width="100" height="50">
+      <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" width="100" height="50">
     </td>
     <td>
-      <img src="https://img.shields.io/badge/-Packet%20Tracer-00A8E8?style=flat&logo=cisco&logoColor=white" width="110" height="50">
-      <img src="https://img.shields.io/badge/-Burp%20Suite-FF5733?style=flat&logo=burp-suite&logoColor=white" width="110" height="50">
+      <img src="https://img.shields.io/badge/-Packet%20Tracer-00A8E8?style=flat&logo=cisco&logoColor=white" width="100" height="50">
+      <img src="https://img.shields.io/badge/-Burp%20Suite-FF5733?style=flat&logo=burp-suite&logoColor=white" width="100" height="50">
     </td>
   </tr>
 </table>
