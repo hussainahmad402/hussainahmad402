@@ -21,8 +21,8 @@
   <tr>
     <td>
       <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" width="120" height="50">
-      <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" width="120">
-      <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" width="120">
+      <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" width="120" height="50">
+      <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" width="120" height="50">
       <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" width="120" height="50">
     </td>
     <td>
