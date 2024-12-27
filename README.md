@@ -7,7 +7,7 @@
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hussainahmad02/) 
 [![Leetcode](https://img.shields.io/badge/-Leetcode-orange?style=flat-square&logo=Leetcode&logoColor=white)](https://leetcode.com/u/hussainahmad02/)
-[![tryhackme](https://img.shields.io/badge/-Monkeytype-00D0A3?style=flat-square&logo=Monkeytype&logoColor=white)](https://tryhackme.com/r/p/hussainahamd9402)
+[![tryhackme](https://img.shields.io/badge/-tryhackme-00D0A3?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/hussainahamd9402)
 
 ---
 
