@@ -32,6 +32,8 @@
   </tr>
 </table>
 
+---
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hussainahmad402&theme=dark&hide_border=true)](https://github.com/hussainahmad402)
 
 
