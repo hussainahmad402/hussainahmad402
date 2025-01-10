@@ -34,7 +34,7 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hussainahmad402)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hussainahmad402)](https://git.io/hussainahmad402)
 
 
 ---
