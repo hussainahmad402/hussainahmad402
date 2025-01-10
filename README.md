@@ -34,7 +34,7 @@
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hussainahmad402&theme=dark&hide_border=true)](https://github.com/hussainahmad402)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hussainahmad402)](https://git.io/streak-stats)
 
 
 ---
