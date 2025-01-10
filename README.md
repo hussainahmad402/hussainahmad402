@@ -32,7 +32,7 @@
   </tr>
 </table>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HussainMadni&theme=dark&hide_border=true)](https://github.com/hussainahmad402)
+
 
 ---
 
@@ -40,7 +40,8 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hussainahmad402&theme=react&hide_border=true" alt="GitHub Activity">
 </p>
-
+---
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hussainahmad402&theme=dark&hide_border=true)](https://github.com/hussainahmad402)
 
 ---
 
