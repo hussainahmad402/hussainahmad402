@@ -27,7 +27,6 @@
       <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" width="120" height="50">
       <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" width="120" height="50">
       <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" width="120" height="50">
-
     </td>
     <td>
       <img src="https://img.shields.io/badge/-Packet%20Tracer-00A8E8?style=flat&logo=cisco&logoColor=white" width="120" height="50">
