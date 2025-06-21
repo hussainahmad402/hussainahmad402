@@ -28,8 +28,8 @@
       <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" width="100" height="50">
     </td>
     <td>
-      <img src="https://img.shields.io/badge/-Packet%10Tracer-00A8E8?style=flat&logo=cisco&logoColor=white" width="100" height="50">
-      <img src="https://img.shields.io/badge/-Burp%10Suite-FF5733?style=flat&logo=burp-suite&logoColor=white" width="100" height="50">
+ <img src="https://img.shields.io/badge/-Packet%20Tracer-00A8E8?style=flat&logo=cisco&logoColor=white" style="height: 30px; object-fit: contain;">
+<img src="https://img.shields.io/badge/-Burp%20Suite-FF5733?style=flat&logo=burp-suite&logoColor=white" style="height: 30px; object-fit: contain;">
     </td>
   </tr>
 </table>
